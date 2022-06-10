@@ -1,0 +1,15 @@
+.mars-app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-between;
+
+}
+
+.mars-app img{
+    max-width: 500px;
+}
+
+.mars-container{
+    border: solid white 4px;
+    margin: 15px;
+}
